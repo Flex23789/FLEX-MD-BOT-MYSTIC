@@ -1,5 +1,5 @@
 <p align="center">
- <img width="180px" src="https://www.pexels.com/photo/close-up-photo-of-programming-of-codes-546819/" align="center"/>
+ <img width="180px" src="FLEX.jpg" align="center"/>
  <h2 align="center">BOTS FLEX</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
