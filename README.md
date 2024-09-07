@@ -6,3 +6,6 @@
 <p>
  تم تطوير هذا بوت بواسطة فلكس
 </p>
+<p>
+ قناة البوت هي https://whatsapp.com/channel/0029VagAnKTB4hdbFcQee90X
+</p>
