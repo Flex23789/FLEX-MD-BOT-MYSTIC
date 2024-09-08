@@ -24,8 +24,8 @@ const handler = async (m, {conn, text, command}) => {
     } catch (error) {
       throw `${tradutor.bk9dalleerr}`;
     }
-  } else if (command === 'bk9') {
-    if (!text) throw `${tradutor.bk9text}`;
+  } else if (command === 'بلاك') {
+    if (!text) throw `غلط يحب اكتب\nمثال\n.بلاك كيف حالك`;
 
     try {
       conn.sendPresenceUpdate('composing', m.chat);
@@ -55,6 +55,6 @@ const handler = async (m, {conn, text, command}) => {
   }
 };
 
-handler.command = ['bk9dalle', 'bk9', 'bk9img'];
+handler.command = ['bk9dalle', 'بلاك', 'bk9img'];
 handler.tags = ['ai'];
 export default handler;
