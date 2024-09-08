@@ -4,7 +4,7 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = "201060316913"
+global.botnumber = "201063016913"
 global.confirmCode = ""
 global.authFile = `NIGHT-BOT`;
 
